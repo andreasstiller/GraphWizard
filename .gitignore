@@ -37,3 +37,4 @@ obj/
 .externalNativeBuild
 .idea/gradle.xml
 .idea/misc.xml
+.idea
